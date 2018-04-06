@@ -1,2 +1,4 @@
 logs/*
 src/PrivateConfig.py
+.idea/*
+sql/.idea/*
